@@ -169,9 +169,9 @@ open_to     : [ Collaborations, Open Source, Cloud Projects ]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RushitChandegara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=1e88e5&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=RushitChandegara&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=1e88e5&text_color=c9d1d9&count_private=true&include_all_commits=true" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushitChandegara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RushitChandegara&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8" height="180"/> -->
 
 </div>
 
